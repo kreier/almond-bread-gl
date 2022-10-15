@@ -6,9 +6,9 @@ A GLES3-boosted Mandelbrot renderer for Linux and iOS. Created by the [Technisch
 
 This app can be found [here in the AppStore](https://apps.apple.com/vn/app/mandel-gl/id1230459217?l=en) for iPhone and iPad.
 
-![AppStore](docs/appstore.png)
+![AppStore](appstore.png)
 
-<img src="docs/screenshot1.png" width="32%"> <img src="docs/screenshot2.png" width="32%"> <img src="docs/screenshot3.png" width="32%">
+<img src="screenshot1.png" width="32%"> <img src="screenshot2.png" width="32%"> <img src="screenshot3.png" width="32%">
 
 ## Limitations
 
